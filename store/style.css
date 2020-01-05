@@ -1,0 +1,32 @@
+body{
+  text-align: right;
+}
+.navbar .navbar-brand {
+  color: rgba(255, 255, 255, .85);
+  font-size: 1rem;
+  padding-top: .45rem;
+}
+.jumbotron-c{
+  background: url('');
+  background-size: cover;
+}
+.btn,.active {
+  transitions: .4s;
+}
+
+.takhfif{
+  text-decoration: line-through;
+  color: red;
+}
+.price{
+  color:green;
+  font-size: 24px;
+}
+.card-title{
+  font-size: 18px;
+}
+
+img{
+  width: 90%;
+  margin: 17px;
+}
